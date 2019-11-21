@@ -1,0 +1,13 @@
+Pipeline {
+	agent any
+
+	stages {
+
+		stage(git-clone) {
+
+		}
+
+	}
+
+
+}
